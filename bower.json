@@ -1,0 +1,26 @@
+{
+  "name": "NHD-daemon",
+  "authors": [
+    "Nitish Victor <nithishvictor@gmail.com>"
+  ],
+  "description": "App for NHD",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "nhd"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-bootstrap": "^1.2.4",
+    "angular": "^1.5.0"
+  }
+}
